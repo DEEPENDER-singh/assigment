@@ -1,0 +1,3 @@
+Student Activity Log
+Arjun attended Node.js class.
+Arjun completed file system practical.
